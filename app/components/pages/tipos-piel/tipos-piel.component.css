@@ -1,0 +1,47 @@
+
+
+.tittle-pagina{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style:normal;
+    font-weight: 1000;
+    font-size: 50px;
+    background-color: rgb(239, 199, 250);
+}
+
+.tittle{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: italic;
+    font-weight: 1000;
+    font-size: 30px;
+}
+
+.centrar-imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+.text{
+    font-family: 'Century Gothic';
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(245, 204, 233);
+    padding: 20px;
+}
+
+.audio {
+    font-family: 'Century Gothic';
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(245, 204, 233);
+    padding: 20px;
+  }
+
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

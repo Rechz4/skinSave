@@ -1,0 +1,17 @@
+.tamanio{
+    height: 350px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(108%);
+  }
+
+.carousel-inner{
+    background-color: #dec3eb;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}

@@ -1,0 +1,21 @@
+.tittle{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.text{
+    font-family: 'Century Gothic';
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 10%;
+    background-color: rgb(245, 204, 233);
+    padding: 20px;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
